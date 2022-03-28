@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TileMap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Monster
+  - Water
+  - UI
+  - Lighting
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Table
+    uniqueID: 3174644699
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 976497487
+    locked: 0
+  - name: Walls
+    uniqueID: 1645523945
+    locked: 0
+  - name: Props
+    uniqueID: 3678085311
+    locked: 0
+  - name: UI
+    uniqueID: 202283771
+    locked: 0
+  - name: Monster
+    uniqueID: 1104684133
+    locked: 0
+  - name: Lighting
+    uniqueID: 1516772739
+    locked: 0

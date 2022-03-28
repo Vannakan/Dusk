@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be58c6d3fbd2e3841b46ffdcd7bf9bf0, type: 3}
+  m_Name: Gauntlets
+  m_EditorClassIdentifier: 
+  Name: Gauntlets
+  Health: 2
+  Damage: 1
+  Sprite: {fileID: 21300000, guid: ba67fe787608d684cbf922f31e3294f1, type: 3}
